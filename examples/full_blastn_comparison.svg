@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="995.622px" height="240px" viewBox="0 0 995.622 240" id="genome_comparison">
+  <path d="m 0,16.5 0.017,0 -0.017,35 -0.017,0 z" id="block_1" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>  e-value= score= length=</title></path>
+  <path d="m 0,59.5 0.017,0 -0.017,35 -0.017,0 z" id="block_1" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>  e-value= score= length=</title></path>
+  <path d="m 532.678,102.5 12.189,0 -3.774,35 -12.189,0 z" id="block_1" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=420 length=721</title></path>
+  <path d="m 556.325,102.5 12.087,0 -6.698,35 -12.019,0 z" id="block_2" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=4.00e-159 score=301 length=725</title></path>
+  <path d="m 659.991,102.5 15.266,0 -9.282,35 -15.232,0 z" id="block_3" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=3.01e-180 score=339 length=917</title></path>
+  <path d="m 281.299,102.5 17.697,0 -7.276,35 -17.918,0 z" id="block_4" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=6.75e-152 score=288 length=1071</title></path>
+  <path d="m 573.665,102.5 39.984,0 -7.565,35 -40.052,0 z" id="block_5" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=1064 length=2373</title></path>
+  <path d="m 235.535,102.5 41.361,0 -7.582,35 -41.395,0 z" id="block_6" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=766 length=2472</title></path>
+  <path d="m 407.558,102.5 52.955,0 -6.426,35 -52.462,0 z" id="block_7" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=1426 length=3138</title></path>
+  <path d="m 462.383,102.5 68.935,0 -2.38,35 -69.207,0 z" id="block_8" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=1756 length=4122</title></path>
+  <path d="m 154.955,102.5 72.369,0 -2.771,35 -72.301,0 z" id="block_9" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=2071 length=4297</title></path>
+  <path d="m 22.287,102.5 128.945,0 -2.652,35 -128.01,0 z" id="block_10" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KR537871 JQ067092 e-value=0.0 score=3303 length=7661</title></path>
+  <path d="m 0,145.5 0.017,0 -0.017,35 -0.017,0 z" id="block_1" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>  e-value= score= length=</title></path>
+  <path d="m 848.555,188.5 30.396,0 -34.765,35 -30.396,0 z" id="block_1" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KX898399 KX129925 e-value=0.0 score=1653 length=1788</title></path>
+  <path d="m 0.017,188.5 31.671,0 +960.415,35 -31.671,0 z" id="block_2" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KX898399 KX129925 e-value=0.0 score=1758 length=1863</title></path>
+  <path d="m 887.043,188.5 108.596,0 -35.207,35 -108.749,0 z" id="block_3" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KX898399 KX129925 e-value=0.0 score=5942 length=6397</title></path>
+  <path d="m 31.688,188.5 807.058,0 -31.348,35 -807.398,0 z" id="block_4" style="fill:#ff0000;fill-opacity:1;stroke:none" ><title>KX898399 KX129925 e-value=0.0 score=42894 length=47519</title></path>
+  <path d="m 0,8.5 0,8 728.144,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>JF939047.fasta</title></path>
+  <path d="m ,4 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,17 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+  <path d="m 0,51.5 0,8 984.283,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>JQ067084.fasta</title></path>
+  <path d="m ,47 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,60 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+  <path d="m 0,94.5 0,8 734.825,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>JQ067092.fasta</title></path>
+  <path d="m ,90 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,103 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+  <path d="m 0,137.5 0,8 724.081,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>KR537871.fasta</title></path>
+  <path d="m ,133 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,146 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+  <path d="m 0,180.5 0,8 995.622,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>KX129925.fasta</title></path>
+  <path d="m ,176 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,189 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+  <path d="m 0,223.5 0,8 992.103,0 0,-8 z" id="_genome" style="fill:#cccccc;fill-opacity:1;stroke:none"><title>KX898399.fasta</title></path>
+  <path d="m ,219 0,4 0,0 0,3 3,-5 -3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined_product_1</title></path>
+  <path d="m ,232 0,4 -0,0 0,3 -3,-5 3,-5 0,3 z" id="_1" style="fill:#888888;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" ><title>_1 - Undefined product 1</title></path>
+</svg>
