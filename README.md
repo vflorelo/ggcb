@@ -64,4 +64,4 @@ KR537871	JQ067092	32336	32725	33042	33435	4.00e-159	301	725
 KR537871	JQ067092	16107	16547	17160	17587	6.75e-152	288	1071
 ```
 
-![synteny_map](images/full_blastn_comparison.svg)
+![synteny_map](examples/full_blastn_comparison.svg)
