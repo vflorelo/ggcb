@@ -16,7 +16,7 @@ Edit the second line of `ggcb.sh` from `bin_dir="/usr/local/bioinformatics/local
 chmod 775 ggcb.sh build_gen_map.sh
 ```
 
-BLASTn and xmllint must also be installed and available in your `$PATH`
+EMBOSS BLASTn and xmllint must also be installed and available in your `$PATH`
 
 For editing purposes, the font [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) should be installed in your system.
 
