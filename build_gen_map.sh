@@ -7,7 +7,7 @@ preload="$3"
 if [ -f "$file_name" ]
 then
   genome_length=$(seqret $file_name raw::stdout | perl -pe 's/\n//g' | wc -c | awk '{print $1*0.017}')
-  gff_str=$(seqret -feature $file_name gff3::stdout | awk '{if($3=="CDS"){print $AF}}')
+  gff_str=$(seqret -feature $file_name gff3::stdout | awk '{if($3=="CDS"){print $0}}')
 else
   exit 0
 fi

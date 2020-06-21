@@ -53,7 +53,7 @@ do
     ${bin_dir}/build_gen_map.sh $file_name_1 multi 0
   fi
   ${bin_dir}/build_gen_map.sh $file_name_2 multi $genome_preload
-  blast_datablock=$(awk -v cutoff="$aln_length_cutoff" 'BEGIN{FS="\t"}{if($9 >= cutoff){print $AF }}' blast_comparison_file | sort -nk9 )
+  blast_datablock=$(awk -v cutoff="$aln_length_cutoff" 'BEGIN{FS="\t"}{if($9 >= cutoff){print $0 }}' blast_comparison_file | sort -nk9 )
   num_blocks=$(echo "$blast_datablock" | wc -l)
   #	qseqid	sseqid	qstart	sstart	qend	send	evalue	score	length
   #	  $1	  $2	  $3	  $4	 $5	 $6	  $7	 $8	  $9
